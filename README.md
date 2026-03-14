@@ -54,3 +54,7 @@ This repo exists to support the public side of the project:
 
 - [BlueSky](https://bsky.app/profile/bvencel.bsky.social)
 - [Instagram](https://www.instagram.com/germstorm/)
+
+## Free sources of pictures
+
+- [Line drawings of steam locomotives](https://commons.wikimedia.org/wiki/Category%3ALine_drawings_of_steam_locomotives)
